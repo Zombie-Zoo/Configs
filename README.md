@@ -5,4 +5,5 @@ A bunch of configs for Zombie Escape (specially for **Zombie-Zoo** server). Any 
 
 # You can join our groups:
 [Discord](https://discord.gg/MwxXsBQeug)
+
 [Steam](https://steamcommunity.com/groups/Zombie-Zoo)
